@@ -1,9 +1,6 @@
 # Color-Spiral
 
-A Processing sketch made using the processing IDE. 
 Using sine and cosine functions and some logic, I have created a spiral of colored circles that rotate around the mouse and change their colors.
-
-To run the sketch, you would need the processing IDE.
 
 You can change the number of balls by changing the number of balls variable.
 You can change the properties of the particles by changing code in the particle class.
